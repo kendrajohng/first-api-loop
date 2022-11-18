@@ -48,3 +48,5 @@ replace innerHTML with setAttribute('src',imageUrl);
 
 20) then add to the page
 appendChild(images);
+
+21) refresh page to display all items and images
